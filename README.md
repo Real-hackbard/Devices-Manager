@@ -13,6 +13,12 @@ License     : Freeware
 
 Device Manager is a component of the Microsoft Windows operating system. It allows users to view and control the hardware attached to the computer. When a piece of hardware is not working, the offending hardware is highlighted for the user to deal with. The list of hardware can be sorted by various criteria.
 
+</br>
+
+![Device manager](https://github.com/user-attachments/assets/d7e36c78-cb97-471c-99fa-2661d216cc68)
+
+</br>
+
 For each device, users can:
 
 * Supply device [drivers](https://en.wikipedia.org/wiki/Device_driver) in accordance with the Windows [Driver Model](https://en.wikipedia.org/wiki/Windows_Driver_Model) Enable or disable devices
